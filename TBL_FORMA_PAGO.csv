@@ -1,0 +1,7 @@
+ID_FORMA_PAGO;DESCRI_F_PAGO
+1;Efectivo
+2;Tarjeta VISA
+3;Tarjeta MasterCard
+4;Tarjeta American Express
+5;Tarjeta Naranja
+6;Otras
